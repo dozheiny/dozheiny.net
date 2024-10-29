@@ -8,7 +8,7 @@
   <meta name="robots" content="noindex">
   {{ end }}
   <title>{{$.Title}}</title>
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://dozheiny/blog/index.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://dozheiny.net/blog/index.xml">
   {{ $style := resources.Get "main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 </head>
