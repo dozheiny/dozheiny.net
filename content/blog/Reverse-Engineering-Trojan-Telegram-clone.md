@@ -25,8 +25,6 @@ But this imposter app is signed diffrently
 ```
 Subject: ST=mobo, L=mobo, O=mobo, OU=mobo, CN=mobo
 ```
-Here’s a revised version with improved grammar and clarity:
-
 This isn’t proof that these apps have different authors, but *maybe* it suggests they serve different purposes.<br/>
 First, I tried to find the main activity function. By searching for the `main` keyword in the Android manifest, I located it.
 ```xml
