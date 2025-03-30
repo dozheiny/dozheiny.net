@@ -2,6 +2,9 @@
 title: "Reverse Engineering a trojan Telegram Clone"
 date: 2024-11-15T15:49:44+03:30
 ---
+
+> *UPDATE: I forgot to include the file hash here to prevent the installation of this application, so here's the [VirusTotal report](https://www.virustotal.com/gui/file/471c90b265bafe61afa86c18e027cab8f9a6d591e60d192a09b919b10a73d8cf/)*
+
 Telegram is one of the largest platforms where individuals can commit digital crimes without being noticed, unless someone reports their content.
 You can easily find related material with a simple search through channels. On channels managed by Iranians, in particular, there are sometimes disturbing contents like child abuse, violence, and more.
 Additionally, it can be an ideal platform for deploying trojan on a large scale.<br/>
