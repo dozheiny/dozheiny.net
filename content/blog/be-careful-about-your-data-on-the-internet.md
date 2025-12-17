@@ -3,7 +3,7 @@ title: "Be Careful About Your Data on the Internet (Reverse Engineering a Dating
 date: 2025-12-17T14:02:01+03:30
 ---
 
-Recently, I reverse engineered a dating app called Sheytoon and announced this on [cyberplace dot com](https://cyberplace.social/@iliya/115713873085165083) and [X dot com](https://x.com/dozheiny/status/1999886952020193344). This app is mostly focused on dating between Iranian people. As you know, Iran is like an open-source repository, because neither the people nor the government cares about the privacy and security of their own people.
+Recently, I reverse engineered a dating app called Sheytoon[^1] and announced this on [cyberplace dot com](https://cyberplace.social/@iliya/115713873085165083) and [X dot com](https://x.com/dozheiny/status/1999886952020193344). This app is mostly focused on dating between Iranian people. As you know, Iran is like an open-source repository, because neither the people nor the government cares about the privacy and security of their own people.
 
 By the way, in this post I want to talk a little more about the technical details of this. So let's begin.
 
@@ -202,3 +202,6 @@ I mean, sure, finding a location requires an authentication token, but for sensi
 Keep watch over your data. Do not upload anything anywhere; do not share your information anywhere. And if you're Iranian, take this warning seriously, because the government will never take responsibility for data leaks or hacks.
 
 Take care of your data.
+
+
+[^1]: Virus total link https://www.virustotal.com/gui/file/5538eb9971f249deeabcefac95a38a3bfa4ad33a9d15ea8c4ccfd277696e345e
